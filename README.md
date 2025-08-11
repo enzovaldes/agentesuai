@@ -4,10 +4,11 @@ pregunta1.py: Asistente general con Gemini (sin restricciones)
 pregunta2.py: Asistente especializado solo en SBPay con OpenAI
 
 1. Requisitos
-	•	Python 3.10+
-	•	Claves de API:
-	•	OpenAI API key
-	•	Tavily API key
+	Python 3.10+
+	Claves de API:
+		OpenAI API key
+		Tavily API key
+		GCP API KEY
 
 Instalar dependencias:
 
